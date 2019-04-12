@@ -1,0 +1,11 @@
+{
+  "name": "trees-leaves",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Silver·湫澲 <autumnsilverleaves@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^8.0.3",
+    "typescript": "^3.4.3"
+  }
+}
