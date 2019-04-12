@@ -21,7 +21,7 @@ function growUp(parent: Category, category: Category[]) {
             break;
         }
     }
-    console.log("111", category)
+
     children.forEach((ele) => {
         growUp(ele, category)
     })
