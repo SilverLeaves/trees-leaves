@@ -18,4 +18,4 @@ Index.ts gives a calculation method of building tree in design mode.
 
 It adds a new form. Is it well designed?
 
-He avoided circular references, didn't he? In this way, the original structure can always be maintained as a simple tree.
+It avoided circular references, didn't it? In this way, the original structure can always be maintained as a simple tree.
